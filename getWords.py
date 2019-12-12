@@ -1,3 +1,4 @@
+#this gets a list of words and splits them into the correct format for the files used for the game
 easy_lines = open("easy_words.txt","r").read()
 medium_lines = open("medium_words.txt","r").read()
 hard_lines = open("hard_words.txt","r").read()
